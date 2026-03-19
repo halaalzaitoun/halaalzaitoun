@@ -22,8 +22,11 @@ A social travel discovery product that helps users discover places through real 
 - Live Demo: [TripTrace](https://triptrace-app.lovable.app)
 - Repository: [triptrace-app](https://github.com/halaalzaitoun/triptrace-app)
 
-### More prototypes coming soon
-I’m actively building additional product concepts and adding them here as part of my product portfolio.
+### SnapRecipe
+A product that helps users turn saved recipes into something they’ll actually use by transforming messy inputs into a structured, searchable library.
+
+Live Demo: [SnapRecipe](https://snaprecipe-app.lovable.app) 
+Repository: [snaprecipe-app](https://github.com/halaalzaitoun/snaprecipe-app)
 
 ## What You'll Find Here
 

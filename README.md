@@ -25,8 +25,8 @@ A social travel discovery product that helps users discover places through real 
 ### SnapRecipe
 A product that helps users turn saved recipes into something they’ll actually use by transforming messy inputs into a structured, searchable library.
 
-Live Demo: [SnapRecipe](https://snaprecipe-app.lovable.app) 
-Repository: [snaprecipe-app](https://github.com/halaalzaitoun/snaprecipe-app)
+- Live Demo: [SnapRecipe](https://snaprecipe-app.lovable.app) 
+- Repository: [snaprecipe-app](https://github.com/halaalzaitoun/snaprecipe-app)
 
 ## What You'll Find Here
 

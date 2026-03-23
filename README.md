@@ -45,4 +45,3 @@ A product that helps users turn saved recipes into something they’ll actually 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/halaalzaitoun)
-- [GitHub](https://github.com/halaalzaitoun)

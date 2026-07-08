@@ -1,47 +1,63 @@
 # Hi, I'm Hala 👋
 
-I’m a product-focused builder exploring how ideas can move quickly from concept to prototype using AI-assisted development tools.
+I'm a Senior Software Engineer with 11+ years of experience building cloud-native applications, distributed systems, and data-intensive software. Recently, I've been exploring modern AI application development by building end-to-end web applications that leverage large language models to create intelligent, conversational user experiences.
 
-My work focuses on product discovery, user experience, early-stage product thinking, and rapid prototyping across consumer and AI-powered experiences.
-I leverage my technical background to partner effectively with engineering teams and bring products from idea to production.
+My interests span software engineering, AI applications, cloud architecture, and data-driven systems. I enjoy building practical software that combines solid engineering principles with modern AI capabilities to solve real user problems.
 
 ## What I'm Building
 
-I’m currently creating product prototypes that explore:
+I'm currently developing AI-powered applications that explore:
 
-- social discovery
-- AI-powered utilities
-- consumer product experiences
-- travel, food, and everyday workflow tools
+* Conversational search and recommendations
+* AI-assisted productivity tools
+* Intelligent data organization
+* Consumer web applications
+* Travel, food, and everyday workflow experiences
 
-## Featured Prototypes
+## Featured Projects
 
 ### TripTrace
-A social travel discovery product that helps users discover places through real traveler check-ins instead of generic travel lists.
 
-- Live Demo: [TripTrace](https://triptrace-app.lovable.app)
-- Repository: [triptrace-app](https://github.com/halaalzaitoun/triptrace-app)
+An AI-powered travel discovery platform that helps users discover destinations through authentic traveler experiences while using conversational search and personalized recommendations.
+
+**Live Demo:** TripTrace
+**Repository:** triptrace-app
+
+---
 
 ### SnapRecipe
-A product that helps users turn saved recipes into something they’ll actually use by transforming messy inputs into a structured, searchable library.
 
-- Live Demo: [SnapRecipe](https://snaprecipe-app.lovable.app) 
-- Repository: [snaprecipe-app](https://github.com/halaalzaitoun/snaprecipe-app)
+An AI-powered recipe management application that transforms recipes from screenshots, social media, and notes into a structured, searchable collection with intelligent organization and meal planning features.
+
+**Live Demo:** SnapRecipe
+**Repository:** snaprecipe-app
+
+## Technical Interests
+
+* AI application development
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & MCP
+* Cloud-native application development
+* Distributed systems
+* Data engineering & analytics
+* Modern web development
 
 ## What You'll Find Here
 
-- product prototypes
-- product specs and roadmaps
-- AI-assisted MVP experiments
-- early-stage product concepts
+* AI application prototypes
+* Full-stack web applications
+* Software engineering projects
+* Architecture experiments
+* Learning projects exploring emerging AI technologies
 
 ## Current Focus
 
-- rapid prototyping with AI tools
-- product thinking and MVP design
-- social and consumer product ideas
-- turning product concepts into working demos
+* Building production-ready AI applications
+* Exploring AI agents and Model Context Protocol (MCP)
+* Learning modern AI engineering patterns
+* Designing scalable cloud-native software
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/halaalzaitoun)
+LinkedIn
